@@ -11,4 +11,4 @@ To play the game use this link https://studio.code.org/projects/gamelab/J_7Cm2eQ
 Images for graphics in this game are NOT owned by me and are from the game Terraria. 
 <br>
 <br>
-The code for this game is written entirely by me
+The code for this game is written entirely by me (code was written in text format, not the block format.
